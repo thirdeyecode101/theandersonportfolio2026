@@ -1,4 +1,4 @@
-<img width="800" height="800
+<img width="200" height="500
   " alt="ai generated image 1" src="https://github.com/user-attachments/assets/900a89d3-6c45-4fb4-bedb-a1fce9258702" />
 
 This repository serves as a comprehensive showcase of my technical mastery and dedication to the IT field. My objective is to bridge the gap between generalized IT support and specialized engineering, utilizing a diverse toolkit to solve complex infrastructure challenges.
